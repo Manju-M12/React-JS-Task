@@ -1,0 +1,9 @@
+.container{
+    background-image:url("./image/back.png");
+  }
+  .card{
+    background-color:cyan;
+    width:500px;
+    height:450px;
+    padding-top:50px;
+  }

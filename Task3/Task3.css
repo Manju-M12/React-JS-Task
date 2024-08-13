@@ -1,0 +1,24 @@
+.buttons{
+    background-image:linear-gradient(purple,red);
+    padding-top:100px;
+    height:700px;
+    color:white;
+    font-style:oblique;
+    font-weight:bold;
+}
+.like{
+    padding:10px;
+    border-radius:10px;
+    background-color:orange;
+    color:white;
+}
+.comment{
+    padding:10px;
+    border-radius:10px;
+}
+.share{
+    padding:10px;
+    border-radius:10px;
+    background-color:blue;
+    color:white;
+}
