@@ -1,0 +1,26 @@
+
+.navbar {
+    background-color:white;
+    padding: 2px;
+  }
+  
+  .menu {
+    display: flex;
+    list-style: none;
+    justify-content: space-around;
+  }
+  
+  .menu li {
+    list-style: none;
+  }
+  
+  .menu li a {
+    color: black;
+    text-decoration: none;
+    padding: 2px;
+  }
+  
+  .menu li a:hover {
+    background-color: blue;
+  }
+             
